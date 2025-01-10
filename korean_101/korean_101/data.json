@@ -1,0 +1,18 @@
+{
+    "course_id": "hehe",
+    "name": "3-Minute Korean",
+    "description": "In these bite-sized lessons you'll learn the most handy Korean phrases.",
+    "total_lesson": 1,
+    "list_lesson": [
+        {
+            "lesson_id": null,
+            "name": "Self Introduction",
+            "description": "Learn how to introduce yourself ",
+            "course_media_type": "Audio",
+            "media_length": null,
+            "list_vocabulary": null,
+            "lesson_notes": null,
+            "lesson_transcript": null
+        }
+    ]
+}
